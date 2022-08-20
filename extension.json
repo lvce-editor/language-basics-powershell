@@ -1,0 +1,12 @@
+{
+  "id": "builtin.language-basics-powershell",
+  "name": "Language Basics powershell",
+  "description": "Provides syntax highlighting and bracket matching in Windows powershellch files.",
+  "languages": [
+    {
+      "id": "powershell",
+      "extensions": [".ps1", ".psm1", ".psd1", ".pssc", ".psrc"],
+      "tokenize": "src/tokenizePowershell.js"
+    }
+  ]
+}

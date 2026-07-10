@@ -17,7 +17,7 @@
     "@lvce-editor/server": "^0.0.37",
     "@lvce-editor/test-syntax-highlighting": "^0.0.7",
     "prettier": "^2.7.1",
-    "typescript": "^4.7.4"
+    "typescript": "^6.0.0"
   },
   "prettier": {
     "semi": false,

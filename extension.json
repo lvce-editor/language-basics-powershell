@@ -8,5 +8,6 @@
       "extensions": [".ps1", ".psm1", ".psd1", ".pssc", ".psrc"],
       "tokenize": "src/tokenizePowershell.js"
     }
-  ]
+  ],
+  "repository": "https://github.com/lvce-editor/language-basics-powershell"
 }
